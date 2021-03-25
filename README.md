@@ -25,6 +25,10 @@ Xposed API Version >= 93
 
 ## 更新日志
 
+v1.04
+
+    对MIUI12改回使用旧的hook点
+
 v1.03
 
     加入对 MIUI 版本的检查
